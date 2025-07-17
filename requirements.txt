@@ -25,3 +25,5 @@ faiss-cpu
 # chromadb
 langchain_chroma
 
+langchain-openai
+beautifulsoup4
